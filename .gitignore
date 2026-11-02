@@ -1,0 +1,42 @@
+# Unreal Engine Ignored Folders
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
+.gradle/
+.idea/
+Builds/
+Platforms/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled C++ modules
+*.ixx
+
+# Visual Studio files
+*.suo
+*.user
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj Nez.user
+
+# Mac OS files
+.DS_Store
